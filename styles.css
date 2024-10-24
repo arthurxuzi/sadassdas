@@ -1,6 +1,17 @@
 body {
 
-    color:white;
+    color: white;
     background: black;
-     
-     }
+    margin: 0px;
+
+}
+
+
+header {
+    border-bottom: solid 2px rgb(0, 195, 255);
+
+padding:20px;
+font-size: 32px;
+color:rgb(0, 195, 255);
+
+}
